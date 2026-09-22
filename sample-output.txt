@@ -1,0 +1,308 @@
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       ADD NEW STUDENT
+=========================================
+Enter Roll Number: Enter Student Name: 
+--- Enter Marks (0 to 100) ---
+Mathematics             Marks: Programming in C        Marks: Physics                 Marks: English                 Marks: Computer Fundamentals   Marks: 
+Student added successfully!
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       ADD NEW STUDENT
+=========================================
+Enter Roll Number: Enter Student Name: 
+--- Enter Marks (0 to 100) ---
+Mathematics             Marks: Programming in C        Marks: Physics                 Marks: English                 Marks: Computer Fundamentals   Marks: 
+Student added successfully!
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       ADD NEW STUDENT
+=========================================
+Enter Roll Number: Enter Student Name: 
+--- Enter Marks (0 to 100) ---
+Mathematics             Marks: Programming in C        Marks: Physics                 Marks: English                 Marks: Computer Fundamentals   Marks: 
+Student added successfully!
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       ADD NEW STUDENT
+=========================================
+Enter Roll Number: Enter Student Name: 
+--- Enter Marks (0 to 100) ---
+Mathematics             Marks: Programming in C        Marks: Physics                 Marks: English                 Marks: Computer Fundamentals   Marks: 
+Student added successfully!
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       ADD NEW STUDENT
+=========================================
+Enter Roll Number: Enter Student Name: 
+--- Enter Marks (0 to 100) ---
+Mathematics             Marks: Programming in C        Marks: Physics                 Marks: English                 Marks: Computer Fundamentals   Marks: 
+Student added successfully!
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       ALL STUDENT RECORDS
+=========================================
+=========================================================================================
+Roll No  Name                      Total        Percentage      Grade    Result  
+=========================================================================================
+101      Rahul Kumar               424.00       84.80%          A        PASS    
+102      Aman Singh                376.00       75.20%          B        PASS    
+103      Garg Anand                491.00       98.20%          A+       PASS    
+104      Gaurav Pal                445.00       89.00%          A        PASS    
+105      Himanshu Chandela         493.00       98.60%          A+       PASS    
+=========================================================================================
+Total Records: 5
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       SEARCH STUDENT
+=========================================
+Enter Roll Number: 
+========================================
+           STUDENT RESULT               
+========================================
+Roll Number        : 103
+Name               : Garg Anand
+
+Mathematics            : 99.00
+Programming in C       : 99.00
+Physics                : 98.00
+English                : 97.00
+Computer Fundamentals  : 98.00
+----------------------------------------
+Total Marks        : 491.00 / 500.00
+Percentage         : 98.20%
+Grade              : A+
+Result             : PASS
+========================================
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=========================================
+       DISPLAY STUDENT REPORT CARD
+=========================================
+Enter Roll Number: 
+===================================================
+             STUDENT REPORT CARD                   
+===================================================
+ Roll Number : 105        Student Name : Himanshu Chandela   
+---------------------------------------------------
+ SUBJECT                          MARKS (Out of 100)
+---------------------------------------------------
+ Mathematics                      : 100.00
+ Programming in C                 :  99.00
+ Physics                          :  98.00
+ English                          :  98.00
+ Computer Fundamentals            :  98.00
+---------------------------------------------------
+ Total Marks Obtained             : 493.00 / 500.00
+ Percentage                       :  98.60%
+ Overall Grade                    : A+
+ Academic Result Status           : PASS
+===================================================
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=======================================
+              CLASS TOPPER             
+=======================================
+Roll Number : 105
+Name        : Himanshu Chandela
+Total       : 493.00 / 500.00
+Percentage  : 98.60%
+Grade       : A+
+Status      : PASS
+---------------------------------------
+=======================================
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+=======================================
+          CLASS STATISTICS             
+=======================================
+Total Students        : 5
+Passed Students       : 5
+Failed Students       : 0
+Class Average         : 89.16%
+Highest Percentage    : 98.60%
+Lowest Percentage     : 75.20%
+Pass Percentage       : 100.00%
+=======================================
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+Records saved successfully!
+
+===========================================
+       STUDENT GRADE MANAGEMENT SYSTEM     
+===========================================
+1. Add Student
+2. Display All Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Display Student Result
+7. Display Topper
+8. Display Class Statistics
+9. Save Records
+10. Exit
+===========================================
+Enter your choice: 
+Records saved successfully!
+Exiting application. Goodbye!
